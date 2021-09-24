@@ -2,7 +2,8 @@
 As football fan, I wanted to create a calendar which consistently updating with my team games.   
 I created a small application, which fetch data from soccerway.com website and updating my dedicated google calendar with my team games schedual.  
 To avoid duplication, I created a MySQL db as a container which stores relevant information, for example, if game synced already to calendar or not.  
-
+example:
+<img src="calendar_example.jpg">
 
 ## prerequisites
 MySQL DB
